@@ -24,7 +24,7 @@ I’m a final-year Computer Science & AI/ML Engineering student passionate about
 
 👉 [Click here to view my resume (PDF)](./Anshu_Sharma_Resume.pdf)
 
-![Preview](https://raw.githubusercontent.com/sharmanshu5/Anshu-Resume/main/preview.png) <!-- Update this if you add a screenshot -->
+![Preview](https://raw.githubusercontent.com/SharmAnshu5/Resumes/blob/main/Anshu%20Resume.png) <!-- Update this if you add a screenshot -->
 
 > Tip: Right-click to download or open the PDF for full screen.
 
