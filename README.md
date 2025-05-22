@@ -1,13 +1,13 @@
 # 📄 Anshu Sharma — Resume
 
-Welcome! This repository contains the most recent and updated version of my resume as a software developer specializing in **Artificial Intelligence**, **Machine Learning**, and **Full Stack Development**.
+Welcome! This repository contains the most recent and updated version of my resume as a software developer specialising in Artificial Intelligence, Machine Learning, and Full-Stack Development.
 
 ## 🧑‍💻 About Me
 
-I’m a final-year Computer Science & AI/ML Engineering student with a passion for solving real-world problems using intelligent systems. I’ve built several projects in the healthcare and AI space, including:
+I’m a final-year Computer Science & AI/ML Engineering student passionate about solving real-world problems using intelligent systems. I’ve built several projects in the healthcare and AI space, including:
 
-- 🔍 **InsuScan Pro** – A diabetes prediction and medical report analyzer using ML & SHAP
-- 💬 **AI HealthBot** – A chatbot that assists doctors in sharing and analyzing reports
+- 🔍 **InsuScan Pro** – A diabetes prediction and medical report analyser using ML & SHAP
+- 💬 **AI HealthBot** – A chatbot that assists doctors in sharing and analysing reports
 - 🌐 **Personal Portfolio** – A fully interactive, animated website using React + Three.js
 
 ## 💼 Key Skills
@@ -24,7 +24,7 @@ I’m a final-year Computer Science & AI/ML Engineering student with a passion f
 
 👉 [Click here to view my resume (PDF)](./Anshu_Sharma_Resume.pdf)
 
-![Preview](https://raw.githubusercontent.com/sharmanshu5/Anshu-Resume/main/preview.png) <!-- Update this if you add a screenshot -->
+![Preview](4https://github.com/SharmAnshu5/Resumes/blob/main/Anshu%20Resume.png) <!-- Update this if you add a screenshot -->
 
 > Tip: Right-click to download or open the PDF for full screen.
 
