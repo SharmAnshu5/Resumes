@@ -41,13 +41,13 @@ I’m a final-year Computer Science & AI/ML Engineering student passionate about
 
 ## For the code
 Add these imports 
-'''
+---
 pip install reportlab
-'''
+---
 
-'''
+---
 pip install pillow
-'''
+---
 
 
 ## 📘 License
