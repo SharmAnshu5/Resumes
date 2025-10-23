@@ -39,6 +39,17 @@ I’m a final-year Computer Science & AI/ML Engineering student passionate about
 
 ---
 
+## For the code
+Add these imports 
+'''
+pip install reportlab
+'''
+
+'''
+pip install pillow
+'''
+
+
 ## 📘 License
 
 This resume is shared for **professional and recruiting purposes** only. Do not distribute or use without permission.
