@@ -1,58 +1,59 @@
-# 📄 Anshu Sharma — Resume
+# 📄 Anshu Sharma — Professional Resume
 
-Welcome! This repository contains the most recent and updated version of my resume as a software developer specialising in Artificial Intelligence, Machine Learning, and Full-Stack Development.
-
-## 🧑‍💻 About Me
-
-I’m a final-year Computer Science & AI/ML Engineering student passionate about solving real-world problems using intelligent systems. I’ve built several projects in the healthcare and AI space, including:
-
-- 🔍 **InsuScan Pro** – A diabetes prediction and medical report analyser using ML & SHAP
-- 💬 **AI HealthBot** – A chatbot that assists doctors in sharing and analysing reports
-- 🌐 **Personal Portfolio** – A fully interactive, animated website using React + Three.js
-
-## 💼 Key Skills
-
-| Domain                    | Tools & Tech                             |
-|---------------------------|------------------------------------------|
-| **Frontend Development**  | React, Vite, Tailwind CSS, Framer Motion |
-| **3D & Animation**        | Three.js, React Three Fiber, Drei        |
-| **Backend Development**   | FastAPI, Node.js, MySQL, Firebase        |
-| **ML & AI**               | Scikit-learn, XGBoost, SHAP, T5, Gemini  |
-| **DevOps & Tools**        | GitHub, Postman, VS Code, Google Cloud   |
-
-## 📌 Resume Preview
-
-👉 [Click here to view my resume (PDF)](./Anshu%20Resume.png)
-
-![Preview](https://raw.githubusercontent.com/SharmAnshu5/Resumes/main/Anshu%20Resume.png) 
-
-> Tip: Right-click to download or open the PDF for full screen.
+Welcome to my resume repository!  
+This repository contains the **latest version of my professional resume and cover letter**, crafted for roles in **Software Development, Artificial Intelligence, and Automation Engineering**.
 
 ---
 
-## 📫 Contact Me
+## 👨‍💻 About Me
 
-- ✉️ Email: anshusharma.dev@gmail.com
-- 🌐 Portfolio: [sharmanshu5.github.io/Portfolio](https://sharmanshu5.github.io/Portfolio)
-- 💼 LinkedIn: [linkedin.com/in/anshusharma](https://www.linkedin.com/in/anshu-sharma-b74a07221/)
-- 🧑‍💻 GitHub: [github.com/sharmanshu5](https://github.com/sharmanshu5)
+I am a **Software Developer & AI Engineer** with hands-on experience in **Machine Learning, RPA Automation, and Full-Stack Development**.  
+Currently, I’m working full-time in the **Technical Team at Amar Ujala**, contributing to an **RPA Automation Project** focused on workflow optimization and digital transformation.
 
----
-
-## For the code
-Add these imports 
-```
-pip install reportlab
-```
-```
-pip install pillow
-```
-
-
-## 📘 License
-
-This resume is shared for **professional and recruiting purposes** only. Do not distribute or use without permission.
+My work bridges automation and intelligence — from developing **AI-powered diagnostic systems** to building **intelligent chatbots** and **interactive 3D web portfolios**.
 
 ---
 
-> Built with ❤️ by Anshu Sharma
+## 🚀 Featured Projects
+
+| Project | Description |
+|----------|-------------|
+| 🩺 **Insu Scan Pro** | AI-powered diabetes prediction and medical report summarizer built with Python, FastAPI, and Streamlit. Integrated XGBoost and SHAP for interpretability. |
+| 🤖 **RPA Automation (Amar Ujala)** | Developing workflow automation solutions using Python and Selenium to optimize internal operations. |
+| 🌊 **See Beneath** | Deep learning-based underwater object detection using YOLO and OpenCV. |
+| 💬 **AI HealthBot** | NLP-based chatbot for doctors and staff, enabling automated report analysis and communication. |
+| 🧠 **Inventia Internship** | AI/ML & Data Science internship where I worked on model optimization and data pipeline automation. |
+| 🧭 **Portfolio Website** | Interactive portfolio showcasing my work, built with React, Tailwind CSS, and Three.js animations. |
+
+---
+
+## 🛠️ Core Skills
+
+| Domain | Tools & Tech |
+|--------|---------------|
+| **Frontend** | React, Vite, Tailwind CSS, Framer Motion, Three.js |
+| **Backend** | FastAPI, Node.js, Flask, MySQL, Firebase |
+| **AI/ML** | Scikit-learn, XGBoost, SHAP, TensorFlow, Gemini, T5 |
+| **Automation** | Selenium, PyAutoGUI, Python Scripting |
+| **DevOps & Tools** | GitHub, Postman, VS Code, Google Cloud |
+
+---
+
+## 📎 Resume & Cover Letter
+
+📄 **Resume (PDF)** – [View/Download Here](./Anshu_Sharma_Resume.pdf)  
+✉️ **Cover Letter (PDF)** – [View/Download Here](./Anshu_Sharma_Cover_Letter.pdf)
+
+![Preview](https://raw.githubusercontent.com/SharmAnshu5/Resumes/main/Anshu%20Resume.png)
+
+> Tip: Right-click to download or open the PDF in full screen for best readability.
+
+---
+
+## ⚙️ Generate Resume & Cover Letter PDFs
+
+You can generate updated versions of both documents using Python and ReportLab.
+
+### 🧩 Install Dependencies
+```bash
+pip install reportlab pillow
